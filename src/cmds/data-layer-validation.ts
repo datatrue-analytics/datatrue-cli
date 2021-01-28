@@ -3,7 +3,7 @@ import { Table } from "console-table-printer";
 import { Argv } from "yargs";
 import { cp, mv, openResource, rm } from "../util";
 
-export const command = ["data-layer-validations", "dlv"];
+export const command = ["data-layer-validation", "dlv"];
 export const desc = "interact with data layer validations";
 export const builder = (yargs: Argv): Argv => {
   return yargs
