@@ -1,6 +1,6 @@
 {
   "name": "@datatrue/cli",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "",
   "files": [
     "dist"
@@ -14,8 +14,15 @@
     "prepare": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datatrue-analytics/datatrue-cli.git"
+  },
   "author": "",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datatrue-analytics/datatrue-cli/issues"
+  },
   "dependencies": {
     "@datatrue/api": "^0.1.2",
     "@giusto/ink-router": "^2.4.0",
