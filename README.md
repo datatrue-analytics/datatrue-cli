@@ -32,7 +32,7 @@ interactive mode
 Commands:
   dt                         interactive mode                          [default]
   dt account                 interact with accounts                 [aliases: a]
-  dt data-layer-validations  interact with data layer validations [aliases: dlv]
+  dt data-layer-validation   interact with data layer validations [aliases: dlv]
   dt step                    interact with steps                   [aliases: st]
   dt suite                   interact with suites                   [aliases: s]
   dt tag-validation          interact with tag validations         [aliases: tv]
