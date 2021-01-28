@@ -1,5 +1,7 @@
 # datatrue-cli
 
+CLI to interact with DataTrue.
+
 - [datatrue-cli](#datatrue-cli)
   - [Install](#install)
   - [Usage](#usage)
