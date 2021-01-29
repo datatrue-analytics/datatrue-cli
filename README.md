@@ -1,5 +1,7 @@
 # datatrue-cli
 
+![Build](https://github.com/datatrue-analytics/datatrue-cli/workflows/Build/badge.svg)
+
 CLI to interact with DataTrue.
 
 - [datatrue-cli](#datatrue-cli)
