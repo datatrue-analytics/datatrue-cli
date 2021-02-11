@@ -1,10 +1,11 @@
-# datatrue-cli
+# @datatrue/cli
 
 ![Build](https://github.com/datatrue-analytics/datatrue-cli/workflows/Build/badge.svg)
+![npm](https://img.shields.io/npm/v/@datatrue/cli)
 
 CLI to interact with DataTrue.
 
-- [datatrue-cli](#datatrue-cli)
+- [@datatrue/cli](#datatruecli)
   - [Install](#install)
   - [Usage](#usage)
     - [Accounts](#accounts)
