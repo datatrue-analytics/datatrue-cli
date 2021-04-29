@@ -1,0 +1,30 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "07:00"
+    timezone: Australia/Sydney
+  open-pull-requests-limit: 10
+  reviewers:
+  - omjadas
+  ignore:
+  - dependency-name: "@types/node"
+    versions:
+    - ">= 15.a, < 16"
+  - dependency-name: console-table-printer
+    versions:
+    - 2.8.0
+  - dependency-name: open
+    versions:
+    - 8.0.0
+- package-ecosystem: github-actions
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "07:00"
+    timezone: Australia/Sydney
+  open-pull-requests-limit: 10
+  reviewers:
+  - omjadas
