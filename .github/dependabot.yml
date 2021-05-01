@@ -9,16 +9,6 @@ updates:
   open-pull-requests-limit: 10
   reviewers:
   - omjadas
-  ignore:
-  - dependency-name: "@types/node"
-    versions:
-    - ">= 15.a, < 16"
-  - dependency-name: console-table-printer
-    versions:
-    - 2.8.0
-  - dependency-name: open
-    versions:
-    - 8.0.0
 - package-ecosystem: github-actions
   directory: "/"
   schedule:
