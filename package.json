@@ -48,7 +48,7 @@
     "@types/ink-divider": "^2.0.1",
     "@types/ink-spinner": "^3.0.0",
     "@types/marked-terminal": "^3.1.1",
-    "@types/node": "^14.14.22",
+    "@types/node": "^16.0.1",
     "@types/react": "^17.0.0",
     "@types/yargs": "^17.0.0",
     "@typescript-eslint/eslint-plugin": "^4.14.0",
