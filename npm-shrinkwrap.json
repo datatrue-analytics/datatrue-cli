@@ -330,9 +330,9 @@
       "dev": true
     },
     "node_modules/@types/blessed": {
-      "version": "0.1.17",
-      "resolved": "https://registry.npmjs.org/@types/blessed/-/blessed-0.1.17.tgz",
-      "integrity": "sha512-BKvUtnrXksNdK0fOYV/9HJGkjCcAvOGMSCJsiHaBFyBeyqHwy2OHK32r5XNI+q0eXuAuGqtPOnDetHnbZoYqag==",
+      "version": "0.1.18",
+      "resolved": "https://registry.npmjs.org/@types/blessed/-/blessed-0.1.18.tgz",
+      "integrity": "sha512-RElT16404LliDsGwSAKVuTWYhHXZ4zE+yXEdNHineyg3aH6a5S9+pLSSyZtd372ymAIJnlGvvGvoKz6bIeioZA==",
       "dev": true,
       "dependencies": {
         "@types/node": "*"
@@ -3867,9 +3867,9 @@
       "dev": true
     },
     "@types/blessed": {
-      "version": "0.1.17",
-      "resolved": "https://registry.npmjs.org/@types/blessed/-/blessed-0.1.17.tgz",
-      "integrity": "sha512-BKvUtnrXksNdK0fOYV/9HJGkjCcAvOGMSCJsiHaBFyBeyqHwy2OHK32r5XNI+q0eXuAuGqtPOnDetHnbZoYqag==",
+      "version": "0.1.18",
+      "resolved": "https://registry.npmjs.org/@types/blessed/-/blessed-0.1.18.tgz",
+      "integrity": "sha512-RElT16404LliDsGwSAKVuTWYhHXZ4zE+yXEdNHineyg3aH6a5S9+pLSSyZtd372ymAIJnlGvvGvoKz6bIeioZA==",
       "dev": true,
       "requires": {
         "@types/node": "*"
