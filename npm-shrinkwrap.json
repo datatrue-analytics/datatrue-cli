@@ -379,9 +379,9 @@
       }
     },
     "node_modules/@types/ink-spinner": {
-      "version": "3.0.0",
-      "resolved": "https://registry.npmjs.org/@types/ink-spinner/-/ink-spinner-3.0.0.tgz",
-      "integrity": "sha512-BN9gCxGfgkgvjbXatL2PjhnUlLuWMDOQLJUUkvH+5bKKWI9qm0Mb56WfMXejNrYOsiHgsz7Dc47x0nWKbXqbOg==",
+      "version": "3.0.1",
+      "resolved": "https://registry.npmjs.org/@types/ink-spinner/-/ink-spinner-3.0.1.tgz",
+      "integrity": "sha512-LevFtWOB2VxxHqzAywf5uC5DXlwUU+rNcgMRanp9uJlzUc5D15wVOMQRN7ANrMPUmfmb+nL8JI2OACOo3eAf3Q==",
       "dev": true,
       "dependencies": {
         "@types/cli-spinners": "*",
@@ -3916,9 +3916,9 @@
       }
     },
     "@types/ink-spinner": {
-      "version": "3.0.0",
-      "resolved": "https://registry.npmjs.org/@types/ink-spinner/-/ink-spinner-3.0.0.tgz",
-      "integrity": "sha512-BN9gCxGfgkgvjbXatL2PjhnUlLuWMDOQLJUUkvH+5bKKWI9qm0Mb56WfMXejNrYOsiHgsz7Dc47x0nWKbXqbOg==",
+      "version": "3.0.1",
+      "resolved": "https://registry.npmjs.org/@types/ink-spinner/-/ink-spinner-3.0.1.tgz",
+      "integrity": "sha512-LevFtWOB2VxxHqzAywf5uC5DXlwUU+rNcgMRanp9uJlzUc5D15wVOMQRN7ANrMPUmfmb+nL8JI2OACOo3eAf3Q==",
       "dev": true,
       "requires": {
         "@types/cli-spinners": "*",
