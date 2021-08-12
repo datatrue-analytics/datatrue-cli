@@ -23,7 +23,7 @@ yargs
     alias: "H",
     type: "string",
     describe: "the DataTrue host you wish to connect to",
-    default: "http://datatrue.com",
+    default: "https://app.datatrue.com",
     global: true,
   })
   .middleware(auth)

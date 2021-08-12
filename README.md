@@ -33,19 +33,19 @@ dt
 interactive mode
 
 Commands:
-  dt                         interactive mode                          [default]
-  dt account                 interact with accounts                 [aliases: a]
-  dt data-layer-validation   interact with data layer validations [aliases: dlv]
-  dt step                    interact with steps                   [aliases: st]
-  dt suite                   interact with suites                   [aliases: s]
-  dt tag-validation          interact with tag validations         [aliases: tv]
-  dt test                    interact with tests                    [aliases: t]
-  dt completion              generate completion script
+  dt                        interactive mode                           [default]
+  dt account                interact with accounts                  [aliases: a]
+  dt data-layer-validation  interact with data layer validations  [aliases: dlv]
+  dt step                   interact with steps                    [aliases: st]
+  dt suite                  interact with suites                    [aliases: s]
+  dt tag-validation         interact with tag validations          [aliases: tv]
+  dt test                   interact with tests                     [aliases: t]
+  dt completion             generate completion script
 
 Options:
   -U, --user-token  your DataTrue user API token             [string] [required]
   -H, --host        the DataTrue host you wish to connect to
-                                       [string] [default: "http://datatrue.com"]
+                                  [string] [default: "https://app.datatrue.com"]
   -v, --version     Show version number                                [boolean]
   -h, --help        Show help                                          [boolean]
 ```
@@ -65,7 +65,7 @@ Commands:
 Options:
   -U, --user-token  your DataTrue user API token             [string] [required]
   -H, --host        the DataTrue host you wish to connect to
-                                       [string] [default: "http://datatrue.com"]
+                                  [string] [default: "https://app.datatrue.com"]
   -v, --version     Show version number                                [boolean]
   -h, --help        Show help                                          [boolean]
 ```
@@ -73,26 +73,26 @@ Options:
 ### Data Layer Validations
 
 ```sh
-$ dt data-layer-validations --help
-dt data-layer-validations
+$ dt data-layer-validation --help
+dt data-layer-validation
 
 interact with data layer validations
 
 Commands:
-  dt data-layer-validations ls <step>       display data layer validations
-  dt data-layer-validations cp              copy a data layer validation
+  dt data-layer-validation ls <step>        display data layer validations
+  dt data-layer-validation cp               copy a data layer validation
   <data-layer-validation> <step>
-  dt data-layer-validations mv              move a data layer validation
+  dt data-layer-validation mv               move a data layer validation
   <data-layer-validation> <step>
-  dt data-layer-validations rm              delete data layer validations
+  dt data-layer-validation rm               delete data layer validations
   <data-layer-validations..>
-  dt data-layer-validations view            view a data layer validation
+  dt data-layer-validation view             view a data layer validation
   <data-layer-validation>
 
 Options:
   -U, --user-token  your DataTrue user API token             [string] [required]
   -H, --host        the DataTrue host you wish to connect to
-                                       [string] [default: "http://datatrue.com"]
+                                  [string] [default: "https://app.datatrue.com"]
   -v, --version     Show version number                                [boolean]
   -h, --help        Show help                                          [boolean]
 ```
@@ -115,7 +115,7 @@ Commands:
 Options:
   -U, --user-token  your DataTrue user API token             [string] [required]
   -H, --host        the DataTrue host you wish to connect to
-                                       [string] [default: "http://datatrue.com"]
+                                  [string] [default: "https://app.datatrue.com"]
   -v, --version     Show version number                                [boolean]
   -h, --help        Show help                                          [boolean]
 ```
@@ -139,7 +139,7 @@ Commands:
 Options:
   -U, --user-token  your DataTrue user API token             [string] [required]
   -H, --host        the DataTrue host you wish to connect to
-                                       [string] [default: "http://datatrue.com"]
+                                  [string] [default: "https://app.datatrue.com"]
   -v, --version     Show version number                                [boolean]
   -h, --help        Show help                                          [boolean]
 ```
@@ -164,7 +164,7 @@ Commands:
 Options:
   -U, --user-token  your DataTrue user API token             [string] [required]
   -H, --host        the DataTrue host you wish to connect to
-                                       [string] [default: "http://datatrue.com"]
+                                  [string] [default: "https://app.datatrue.com"]
   -v, --version     Show version number                                [boolean]
   -h, --help        Show help                                          [boolean]
 ```
@@ -188,7 +188,7 @@ Commands:
 Options:
   -U, --user-token  your DataTrue user API token             [string] [required]
   -H, --host        the DataTrue host you wish to connect to
-                                       [string] [default: "http://datatrue.com"]
+                                  [string] [default: "https://app.datatrue.com"]
   -v, --version     Show version number                                [boolean]
   -h, --help        Show help                                          [boolean]
 ```
