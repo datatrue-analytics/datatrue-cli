@@ -90,7 +90,7 @@ export const builder = (yargs: Argv): Argv => {
             const row: Record<string, any> = {
               ID: step.getResourceID(),
               Name: step.name,
-              "Step Action": DataTrue.StepActions[step.action],
+              "Step Action": step.action,
             };
 
             if (argv.target) {
@@ -121,6 +121,10 @@ export const builder = (yargs: Argv): Argv => {
               row["Wait While Present"] = step.options.wait_while_present;
             }
 
+            if (argv["common-tag-validations"]) {
+              row["Use Common Tag Validations"] = step.options.use_common_tag_validations;
+            }
+
             if (argv.strategy) {
               row["Strategy"] = step.options.settings?.strategy;
             }
@@ -131,10 +135,6 @@ export const builder = (yargs: Argv): Argv => {
 
             if (argv["template-detection"]) {
               row["Template Detection"] = step.options.settings?.template_detection;
-            }
-
-            if (argv["common-tag-validations"]) {
-              row["Use Common Tag Validations"] = step.options.settings?.use_common_tag_validations;
             }
 
             rows.push(row);

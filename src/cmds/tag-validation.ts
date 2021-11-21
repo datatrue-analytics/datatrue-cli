@@ -130,11 +130,11 @@ export const builder = (yargs: Argv): Argv => {
               }
 
               if (argv["do-validation"]) {
-                row["Do Validation"] = tagValidation.options.interception?.do_validation;
+                row["Do Validation"] = tagValidation.options.do_validation;
               }
 
               if (argv["detect-duplicates"]) {
-                row["Detect Duplicates"] = tagValidation.options.detect_duplicates ?? false;
+                row["Detect Duplicates"] = tagValidation.options.detect_duplicates;
               }
 
               if (argv["validate-absence"]) {
