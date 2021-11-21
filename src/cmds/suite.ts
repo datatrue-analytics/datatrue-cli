@@ -111,7 +111,7 @@ export const builder = (yargs: Argv): Argv => {
             const row: Record<string, any> = {
               ID: suite.getResourceID(),
               Name: suite.name,
-              "Suite Type": DataTrue.SuiteTypes[suite.options.suite_type ?? 0],
+              "Suite Type": suite.options.suite_type,
             };
 
             rows.push(row);

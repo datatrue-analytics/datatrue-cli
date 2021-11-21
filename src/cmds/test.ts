@@ -85,7 +85,7 @@ export const builder = (yargs: Argv): Argv => {
             const row: Record<string, any> = {
               ID: test.getResourceID(),
               Name: test.name,
-              "Test Type": DataTrue.TestTypes[test.testType],
+              "Test Type": test.testType,
             };
 
             rows.push(row);

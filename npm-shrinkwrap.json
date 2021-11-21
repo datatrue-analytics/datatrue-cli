@@ -9,7 +9,7 @@
       "version": "0.1.8",
       "license": "MIT",
       "dependencies": {
-        "@datatrue/api": "^0.1.7",
+        "@datatrue/api": "^0.2.1",
         "@giusto/ink-router": "^2.4.0",
         "chalk": "^4.1.0",
         "cli-progress": "^3.8.2",
@@ -78,9 +78,9 @@
       }
     },
     "node_modules/@datatrue/api": {
-      "version": "0.1.7",
-      "resolved": "https://registry.npmjs.org/@datatrue/api/-/api-0.1.7.tgz",
-      "integrity": "sha512-12Xsg+bimniB4DAH7NauWZRmOaW8dW00FVB/01bo097E+kq60c4dwfnoHQMYXupxcse2qJRFgRTAv+zmyQrv7g==",
+      "version": "0.2.1",
+      "resolved": "https://registry.npmjs.org/@datatrue/api/-/api-0.2.1.tgz",
+      "integrity": "sha512-WYtq3sHEHy1BQMb60THck0pF4sWjJbJxtnxYl5GDuSejzHoYy9YZ/mwlROk2m+iZIK4eDxc9Tx0VJMVeMF1MXQ==",
       "dependencies": {
         "cross-fetch": "^3.0.6"
       }
@@ -3656,9 +3656,9 @@
       }
     },
     "@datatrue/api": {
-      "version": "0.1.7",
-      "resolved": "https://registry.npmjs.org/@datatrue/api/-/api-0.1.7.tgz",
-      "integrity": "sha512-12Xsg+bimniB4DAH7NauWZRmOaW8dW00FVB/01bo097E+kq60c4dwfnoHQMYXupxcse2qJRFgRTAv+zmyQrv7g==",
+      "version": "0.2.1",
+      "resolved": "https://registry.npmjs.org/@datatrue/api/-/api-0.2.1.tgz",
+      "integrity": "sha512-WYtq3sHEHy1BQMb60THck0pF4sWjJbJxtnxYl5GDuSejzHoYy9YZ/mwlROk2m+iZIK4eDxc9Tx0VJMVeMF1MXQ==",
       "requires": {
         "cross-fetch": "^3.0.6"
       }
