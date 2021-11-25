@@ -287,9 +287,9 @@
       "dev": true
     },
     "node_modules/@types/giusto__ink-router": {
-      "version": "2.4.2",
-      "resolved": "https://registry.npmjs.org/@types/giusto__ink-router/-/giusto__ink-router-2.4.2.tgz",
-      "integrity": "sha512-43IeXpDP8XhZl6RV574i7uxBK+Y/gAUzTKTiiS48YUrkbyeGAuCgoRAY/XJOZtMfRxPtyH+G38WnwKUv0bqMgA==",
+      "version": "2.4.3",
+      "resolved": "https://registry.npmjs.org/@types/giusto__ink-router/-/giusto__ink-router-2.4.3.tgz",
+      "integrity": "sha512-fmFMv5dAe9tTHOUClgt4UfMvx2ksMT/fxQv3QZd/2cHbGpPr6LwRmR0klcPgZ1Cdxz7XRznE5jcCwXEX+UbfjQ==",
       "dev": true,
       "dependencies": {
         "@types/history": "*",
@@ -3839,9 +3839,9 @@
       "dev": true
     },
     "@types/giusto__ink-router": {
-      "version": "2.4.2",
-      "resolved": "https://registry.npmjs.org/@types/giusto__ink-router/-/giusto__ink-router-2.4.2.tgz",
-      "integrity": "sha512-43IeXpDP8XhZl6RV574i7uxBK+Y/gAUzTKTiiS48YUrkbyeGAuCgoRAY/XJOZtMfRxPtyH+G38WnwKUv0bqMgA==",
+      "version": "2.4.3",
+      "resolved": "https://registry.npmjs.org/@types/giusto__ink-router/-/giusto__ink-router-2.4.3.tgz",
+      "integrity": "sha512-fmFMv5dAe9tTHOUClgt4UfMvx2ksMT/fxQv3QZd/2cHbGpPr6LwRmR0klcPgZ1Cdxz7XRznE5jcCwXEX+UbfjQ==",
       "dev": true,
       "requires": {
         "@types/history": "*",
