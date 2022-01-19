@@ -44,7 +44,7 @@
     "@types/blessed": "^0.1.17",
     "@types/cli-progress": "^3.8.0",
     "@types/giusto__ink-router": "^2.4.1",
-    "@types/history": "^4.7.8",
+    "@types/history": "^5.0.0",
     "@types/ink-divider": "^2.0.1",
     "@types/ink-spinner": "^3.0.0",
     "@types/marked-terminal": "^3.1.1",
