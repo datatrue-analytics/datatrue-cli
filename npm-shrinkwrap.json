@@ -399,9 +399,9 @@
       "dev": true
     },
     "node_modules/@types/marked-terminal": {
-      "version": "3.1.3",
-      "resolved": "https://registry.npmjs.org/@types/marked-terminal/-/marked-terminal-3.1.3.tgz",
-      "integrity": "sha512-dKgOLKlI5zFb2jTbRcyQqbdrHxeU74DCOkVIZtsoB2sc1ctXZ1iB2uxG2jjAuzoLdvwHP065ijN6Q8HecWdWYg==",
+      "version": "3.1.4",
+      "resolved": "https://registry.npmjs.org/@types/marked-terminal/-/marked-terminal-3.1.4.tgz",
+      "integrity": "sha512-6i2Z86bH+8MCXktmPqyMmc5iuaMFo7RFN+rQvJAwmpssZ0U0DaiqPNSqEr6r4cKeNImm1vMz2G3r5uNooUc65Q==",
       "dev": true,
       "dependencies": {
         "@types/marked": "^3",
@@ -4585,9 +4585,9 @@
       "dev": true
     },
     "@types/marked-terminal": {
-      "version": "3.1.3",
-      "resolved": "https://registry.npmjs.org/@types/marked-terminal/-/marked-terminal-3.1.3.tgz",
-      "integrity": "sha512-dKgOLKlI5zFb2jTbRcyQqbdrHxeU74DCOkVIZtsoB2sc1ctXZ1iB2uxG2jjAuzoLdvwHP065ijN6Q8HecWdWYg==",
+      "version": "3.1.4",
+      "resolved": "https://registry.npmjs.org/@types/marked-terminal/-/marked-terminal-3.1.4.tgz",
+      "integrity": "sha512-6i2Z86bH+8MCXktmPqyMmc5iuaMFo7RFN+rQvJAwmpssZ0U0DaiqPNSqEr6r4cKeNImm1vMz2G3r5uNooUc65Q==",
       "dev": true,
       "requires": {
         "@types/marked": "^3",
