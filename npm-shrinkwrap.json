@@ -388,9 +388,9 @@
       "dev": true
     },
     "node_modules/@types/ink-divider": {
-      "version": "2.0.3",
-      "resolved": "https://registry.npmjs.org/@types/ink-divider/-/ink-divider-2.0.3.tgz",
-      "integrity": "sha512-vI3F1MwZRRsPeP6At6RmxP3cBkwp1I5HwFiA8qRC0LXgPbn/XW1058vez+nxP17SJ1trLvU0O3ByH1iULacUWw==",
+      "version": "2.0.4",
+      "resolved": "https://registry.npmjs.org/@types/ink-divider/-/ink-divider-2.0.4.tgz",
+      "integrity": "sha512-9edcdEh7JMnkI0CZ4mI8xZ4Gc9cQO3v5+7peJvamWcvJVZKHzmEGorWdgeIu4o86QnwRP3k4Uipnxgh9ljx3iQ==",
       "dev": true,
       "dependencies": {
         "@types/react": "*"
@@ -4671,9 +4671,9 @@
       "dev": true
     },
     "@types/ink-divider": {
-      "version": "2.0.3",
-      "resolved": "https://registry.npmjs.org/@types/ink-divider/-/ink-divider-2.0.3.tgz",
-      "integrity": "sha512-vI3F1MwZRRsPeP6At6RmxP3cBkwp1I5HwFiA8qRC0LXgPbn/XW1058vez+nxP17SJ1trLvU0O3ByH1iULacUWw==",
+      "version": "2.0.4",
+      "resolved": "https://registry.npmjs.org/@types/ink-divider/-/ink-divider-2.0.4.tgz",
+      "integrity": "sha512-9edcdEh7JMnkI0CZ4mI8xZ4Gc9cQO3v5+7peJvamWcvJVZKHzmEGorWdgeIu4o86QnwRP3k4Uipnxgh9ljx3iQ==",
       "dev": true,
       "requires": {
         "@types/react": "*"
