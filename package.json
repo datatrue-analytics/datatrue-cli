@@ -35,7 +35,7 @@
     "ink-select-input": "^4.2.0",
     "ink-spinner": "^4.0.1",
     "ink-use-stdout-dimensions": "^1.0.5",
-    "open": "^8.0.1",
+    "open": "^10.1.0",
     "react": "^17.0.1",
     "restore-cursor": "^3.1.0",
     "yargs": "^17.0.1"
