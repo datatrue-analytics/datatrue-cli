@@ -37,7 +37,7 @@
     "ink-use-stdout-dimensions": "^1.0.5",
     "open": "^8.0.1",
     "react": "^17.0.1",
-    "restore-cursor": "^3.1.0",
+    "restore-cursor": "^5.1.0",
     "yargs": "^17.0.1"
   },
   "devDependencies": {
