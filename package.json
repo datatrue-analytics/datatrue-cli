@@ -30,7 +30,7 @@
     "cli-progress": "^3.8.2",
     "console-table-printer": "^2.7.5",
     "ink": "^3.0.8",
-    "ink-divider": "^3.0.0",
+    "ink-divider": "^4.0.1",
     "ink-markdown": "^1.0.1",
     "ink-select-input": "^4.2.0",
     "ink-spinner": "^4.0.1",
