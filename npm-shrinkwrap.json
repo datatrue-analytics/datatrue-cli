@@ -1458,9 +1458,9 @@
       "dev": true
     },
     "node_modules/console-table-printer": {
-      "version": "2.14.1",
-      "resolved": "https://registry.npmjs.org/console-table-printer/-/console-table-printer-2.14.1.tgz",
-      "integrity": "sha512-Nvz+lt5BRvG8qJ8KrqhK0rtbE4hbi0oj4G5/2ig7pbMXBCvy+zcHEZbyIdidl2GEL0AwtxYX4Zc3C28fFSPXyA==",
+      "version": "2.14.2",
+      "resolved": "https://registry.npmjs.org/console-table-printer/-/console-table-printer-2.14.2.tgz",
+      "integrity": "sha512-TyXKHIzSBFAuxRpgB4MA3RhFVzghJGpG8/eHmpWGm/2ezdswpbdVkxN7xTvDM3snIDKc8UrUs2NiR4LFjv/F1w==",
       "license": "MIT",
       "dependencies": {
         "simple-wcswidth": "^1.0.1"
@@ -5964,9 +5964,9 @@
       "dev": true
     },
     "console-table-printer": {
-      "version": "2.14.1",
-      "resolved": "https://registry.npmjs.org/console-table-printer/-/console-table-printer-2.14.1.tgz",
-      "integrity": "sha512-Nvz+lt5BRvG8qJ8KrqhK0rtbE4hbi0oj4G5/2ig7pbMXBCvy+zcHEZbyIdidl2GEL0AwtxYX4Zc3C28fFSPXyA==",
+      "version": "2.14.2",
+      "resolved": "https://registry.npmjs.org/console-table-printer/-/console-table-printer-2.14.2.tgz",
+      "integrity": "sha512-TyXKHIzSBFAuxRpgB4MA3RhFVzghJGpG8/eHmpWGm/2ezdswpbdVkxN7xTvDM3snIDKc8UrUs2NiR4LFjv/F1w==",
       "requires": {
         "simple-wcswidth": "^1.0.1"
       }
