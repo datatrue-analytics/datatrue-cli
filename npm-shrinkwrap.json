@@ -37,7 +37,7 @@
         "@types/ink-spinner": "^3.0.0",
         "@types/marked-terminal": "^3.1.1",
         "@types/node": "^24.0.0",
-        "@types/react": "^18.0.0",
+        "@types/react": "^18.3.26",
         "@types/yargs": "^17.0.0",
         "@typescript-eslint/eslint-plugin": "^8.0.0",
         "@typescript-eslint/parser": "^8.0.0",
@@ -606,21 +606,15 @@
       "devOptional": true
     },
     "node_modules/@types/react": {
-      "version": "18.0.9",
-      "resolved": "https://registry.npmjs.org/@types/react/-/react-18.0.9.tgz",
-      "integrity": "sha512-9bjbg1hJHUm4De19L1cHiW0Jvx3geel6Qczhjd0qY5VKVE2X5+x77YxAepuCwVh4vrgZJdgEJw48zrhRIeF4Nw==",
+      "version": "18.3.26",
+      "resolved": "https://registry.npmjs.org/@types/react/-/react-18.3.26.tgz",
+      "integrity": "sha512-RFA/bURkcKzx/X9oumPG9Vp3D3JUgus/d0b67KB0t5S/raciymilkOa66olh78MUI92QLbEJevO7rvqU/kjwKA==",
       "devOptional": true,
+      "license": "MIT",
       "dependencies": {
         "@types/prop-types": "*",
-        "@types/scheduler": "*",
         "csstype": "^3.0.2"
       }
-    },
-    "node_modules/@types/scheduler": {
-      "version": "0.16.1",
-      "resolved": "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.1.tgz",
-      "integrity": "sha512-EaCxbanVeyxDRTQBkdLb3Bvl/HK7PBK6UJjsSixB0iHKoWxE5uu2Q/DgtpOhPIojN0Zl1whvOd7PoHs2P0s5eA==",
-      "devOptional": true
     },
     "node_modules/@types/yargs": {
       "version": "17.0.2",
@@ -5358,21 +5352,14 @@
       "devOptional": true
     },
     "@types/react": {
-      "version": "18.0.9",
-      "resolved": "https://registry.npmjs.org/@types/react/-/react-18.0.9.tgz",
-      "integrity": "sha512-9bjbg1hJHUm4De19L1cHiW0Jvx3geel6Qczhjd0qY5VKVE2X5+x77YxAepuCwVh4vrgZJdgEJw48zrhRIeF4Nw==",
+      "version": "18.3.26",
+      "resolved": "https://registry.npmjs.org/@types/react/-/react-18.3.26.tgz",
+      "integrity": "sha512-RFA/bURkcKzx/X9oumPG9Vp3D3JUgus/d0b67KB0t5S/raciymilkOa66olh78MUI92QLbEJevO7rvqU/kjwKA==",
       "devOptional": true,
       "requires": {
         "@types/prop-types": "*",
-        "@types/scheduler": "*",
         "csstype": "^3.0.2"
       }
-    },
-    "@types/scheduler": {
-      "version": "0.16.1",
-      "resolved": "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.1.tgz",
-      "integrity": "sha512-EaCxbanVeyxDRTQBkdLb3Bvl/HK7PBK6UJjsSixB0iHKoWxE5uu2Q/DgtpOhPIojN0Zl1whvOd7PoHs2P0s5eA==",
-      "devOptional": true
     },
     "@types/yargs": {
       "version": "17.0.2",

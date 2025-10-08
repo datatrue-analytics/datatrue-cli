@@ -24,12 +24,7 @@ export const builder = (yargs: Argv): Argv => {
     }, argv => {
       DataTrue.Account.getAccounts()
         .then(accounts => {
-          const table = new Table({
-            sort: (
-              row1: { ID: number },
-              row2: { ID: number }
-            ) => row1.ID - row2.ID,
-          });
+          const table = new Table({ sort: (row1, row2) => row1.ID - row2.ID });
           const rows: any[] = [];
           accounts.forEach(account => {
             const row: Record<string, any> = {

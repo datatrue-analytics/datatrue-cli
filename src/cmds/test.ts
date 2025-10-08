@@ -36,6 +36,13 @@ export const builder = (yargs: Argv): Argv => {
           type: "string",
           describe: "variables to set for the test run",
           default: {} as Record<string, string>,
+          coerce: arg => {
+            try {
+              return JSON.parse(arg) as Record<string, string>;
+            } catch {
+              throw new Error("Variables must be a valid JSON object");
+            }
+          }
         });
     }, argv => {
       restoreCursor();
